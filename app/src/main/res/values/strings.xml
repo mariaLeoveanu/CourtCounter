@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="header_A">Team A</string>
+    <string name="header_B">Team B</string>
+    <string name="point">Point</string>
+    <string name="game">Game</string>
+    <string name="reset">Reset</string>
+    <string name="winnerA">The winner is A</string>
+    <string name="winnerB">The winner is B</string>
+    <string name="points0">0</string>
+</resources>
